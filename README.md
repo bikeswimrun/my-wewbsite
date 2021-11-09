@@ -1,3 +1,3 @@
-# My Wewbsite
+# bikeswimrun Wewbsite
 
 This is a cool website
